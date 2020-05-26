@@ -1,0 +1,24 @@
+.tag-index{
+    background-color: aqua;
+}
+.tag-group{
+
+}
+.tag-group .title{
+    font-weight: bold;
+    font-size: 20px;
+}
+.tag-index .list{
+
+}
+.tag{
+    display: inline-block;
+    background-color: rosybrown;
+    padding: 2px;
+    margin: 3px;
+    cursor: pointer;
+    color: white;
+}
+.selected{
+    background-color: black;
+}

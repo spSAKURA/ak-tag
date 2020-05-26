@@ -1,0 +1,13 @@
+.res-row{
+    color: wheat;
+    background-color: springgreen;
+}
+.res-row .title{
+    background-color: tomato;
+}
+.res-row .char{
+    background-color: brown;
+    display: inline-block;
+    padding: 2px;
+    margin: 3px;
+}
